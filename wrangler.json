@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "api-atomflip-com",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d7cfb5b6-c2d0-4615-a75c-20ac122cdbd2",
+			"database_name": "d1-atomflip"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
